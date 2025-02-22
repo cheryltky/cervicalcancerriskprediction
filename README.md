@@ -33,6 +33,17 @@ Four different screening test results used for cervical cancer diagnosis
 - Precision (Class 1): 61%
 - Recall (Class 1): 85%
 
+## 📊 Results & Visualization
+![Confusion Matrix](assets/confusion_matrix.png)
+*Confusion Matrix showing model performance*
+
+![Feature Importance](assets/feature_importance.png)
+*Top predictive features for cervical cancer risk*
+
+## 🔍 Detailed Analysis
+You can find the complete analysis in:
+- [View the Jupyter Notebook](notebooks/Cervical_Cancer_Prediction_XGBoost.ipynb) - Full code and detailed walkthrough
+- [View on NBViewer](https://nbviewer.jupyter.org/github/YourUsername/cervical-cancer-prediction/blob/main/notebooks/Cervical_Cancer_Prediction_XGBoost.ipynb) - For better rendering
 ## 📈 Key Findings
 1. Model shows strong performance in identifying negative cases
 2. Higher sensitivity (85% recall) for positive cases
