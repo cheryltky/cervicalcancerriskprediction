@@ -1,5 +1,7 @@
 # Can a patient's history flag who needs a biopsy?
 
+![Cover](assets/cover.png)
+
 An XGBoost classifier that predicts the biopsy result in a public cervical
 cancer screening dataset, with an honest look at what the test accuracy does
 and does not mean.
