@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+jupyterthemes
+scikit-learn
+xgboost>=1.3.0
+jupyterlab
